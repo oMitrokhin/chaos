@@ -1,0 +1,5 @@
+obj_name        obj_code        description
+first_name      first_name      имя студента 
+second_name     second_name     фамилия студента
+mark            mark            оценка студента
+subj            subj            предмет 
